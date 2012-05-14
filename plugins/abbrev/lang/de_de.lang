@@ -1,0 +1,27 @@
+
+xoutputfilter_abbrev_menu_entry = Abkürzungen
+
+xoutputfilter_abbrev_listtitle = Abkürzungen
+xoutputfilter_abbrev_listsummary = In dieser Tabelle sind alle definierten Abkürzungen enthalten
+xoutputfilter_abbrev_addentry = Abkürzung erstellen
+xoutputfilter_abbrev_marker = Abkürzung
+xoutputfilter_abbrev_html = Hinweistext
+xoutputfilter_abbrev_active = Aktiviert
+xoutputfilter_abbrev_func = Funktionen
+xoutputfilter_abbrev_actentry = aktivieren
+xoutputfilter_abbrev_deactentry = deaktivieren
+xoutputfilter_abbrev_delentry = löschen
+xoutputfilter_abbrev_nodata = <strong>Keine Abkürzungen für diese Auswahl vorhanden!</strong>
+xoutputfilter_abbrev_back = Zurück zur Übersicht
+xoutputfilter_abbrev_fieldset = Abkürzung bearbeiten
+xoutputfilter_abbrev_deleted = Abkürzung wurde gelöscht
+xoutputfilter_abbrev_activated = Abkürzung wurde aktiviert
+xoutputfilter_abbrev_deactivated = Abkürzung wurde deaktiviert
+xoutputfilter_abbrev_noabbrev = Bitte geben Sie eine Abkürzung ein!
+xoutputfilter_abbrev_nohtml = Bitte geben Sie einen Hinweistext ein!
+xoutputfilter_abbrev_excludeids = Bei folgenden Seiten-Id's nicht ausführen (kommaseparierte Liste)
+
+xoutputfilter_abbrev_filter = Filter:
+xoutputfilter_abbrev_filter1 = Abkürzung
+xoutputfilter_abbrev_filter2 = Hinweistext
+xoutputfilter_abbrev_button_filter = Filtern

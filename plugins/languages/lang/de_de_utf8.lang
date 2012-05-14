@@ -1,0 +1,27 @@
+﻿
+xoutputfilter_languages_menu_entry = Sprachersetzungen
+
+xoutputfilter_lang_listtitle = Sprachersetzungen
+xoutputfilter_lang_listsummary = In dieser Tabelle sind alle definierten Sprachersetzungen enthalten
+xoutputfilter_lang_addentry = Sprachersetzung erstellen
+xoutputfilter_lang_marker = Marker
+xoutputfilter_lang_html = Ersetzung
+xoutputfilter_lang_active = Aktiviert
+xoutputfilter_lang_func = Funktionen
+xoutputfilter_lang_actentry = aktivieren
+xoutputfilter_lang_deactentry = deaktivieren
+xoutputfilter_lang_delentry = löschen
+xoutputfilter_lang_nodata = <strong>Keine Sprachersetzungen für diese Auswahl vorhanden!</strong>
+xoutputfilter_lang_back = Zurück zur Übersicht
+xoutputfilter_lang_fieldset = Sprachersetzung bearbeiten
+xoutputfilter_lang_deleted = Sprachersetzung wurde gelöscht
+xoutputfilter_lang_activated = Sprachersetzung wurde aktiviert
+xoutputfilter_lang_deactivated = Sprachersetzung wurde deaktiviert
+xoutputfilter_lang_nomarker = Bitte geben Sie einen Marker ein!
+xoutputfilter_lang_nohtml = Bitte geben Sie eine Ersetzung ein!
+xoutputfilter_lang_excludeids = Bei folgenden Seiten-Id's nicht ausführen (kommaseparierte Liste)
+
+xoutputfilter_lang_filter = Filter:
+xoutputfilter_lang_filter1 = Marker
+xoutputfilter_lang_filter2 = Ersetzung
+xoutputfilter_lang_button_filter = Filtern

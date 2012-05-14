@@ -1,0 +1,58 @@
+Addon: XOutputFilter Version 2.0
+
+02.08.2011 Version 2.0 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Addon komplett neu geschrieben (REDAXO-Konform)
+           - verwendbar ab REDAXO Version 4.2.x (Plugins notwendig)
+           - Erweiterungen über plugins
+           - Klasse xoutputfilter für Zugriff auf Sprachersetzungen aus Modulen/Addons
+
+03.08.2010 Version 1.5 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Anpassung an REDAXO 4.3.x
+           - Beispiele werden nicht mehr installiert, können aber importiert werden
+           - Klasse xoutputfilter für Zugriff auf Sprachersetzungen aus Modulen/Addons
+           - Einzelne Seiten-Id's können jetzt vom Outputfilter ausgenommen werden
+           - Submenü-Reihenfolge geändert
+           - Backend-Ausgaben überarbeitet/angepasst
+           - Syntaxprüfung geändert
+           - Code komplett überarbeitet
+
+20.11.2009 Version 1.4 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Sprachersetzungen, Abkürzungen und Akronyme werden jetzt vor den Ersetzungen ausgeführt
+           - Schreibrechte auf ini-Datei setzen
+           - x_functions.inc.php umbenannt in xoutputfilter_functions.inc.php
+           - id im Tabellennamen auf 420 geändert
+           - Anpassung an 4.2.x
+
+12.09.2008 Version 1.3 Andreas Eberhard <andreas.eberhard@gmail.com>
+
+           - Umbenennung in XOutputFilter, dadurch Ausführung als "letztes" Addon
+             Achtung: nicht mehr kompatibel zu Addon htmlinsert!
+
+           - Anpassung an REDAXO 4.1
+           - neue Funktion: Inserts für das Backend möglich
+           - neue Funktion: Sprachersetzungen für das Frontend
+           - neue Funktion: Abkürzungen und Akronyme für das Frontend
+           - neue Funktion: Konfiguration
+           - jetzt sind auch " im Marker möglich, Marker erweitert als Textarea
+           - Tabellenfeld 'insertbefore' kann jetzt auch den Wert '3' für PREG_REPLACE annehmen
+           - Tabellenfeld 'insertbefore' kann jetzt auch den Wert '4' für PHP-Code annehmen
+           - Ersetzungen jetzt auch mit preg_replace möglich, mit Prüfung des regulären Ausdrucks im Backend
+           - Ausführung von PHP-Code für den gesamten Content möglich (mehrere Output-Filter in einem Addon)
+           - Install-SQL erweitert/angepasst
+           - Tabelle erweitert/angepasst
+           - Berechtigungen für frontend/backend/preg/languages/settings/info
+           - Kommentare und Newlines bei der Ausgabe entfernt
+           - HTML-Fehler/Warnings bereinigt
+
+08.02.2008 Version 1.2 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - jetzt kann der Suchstring auch ersetzt werden
+           - config.inc.php, SQL erweitert um Sortierung nach dem Feld 'name'
+           - Tabellenfeld 'insertbefore' kann jetzt auch den Wert '2' für ersetzen annehmen
+           - Notices/Warnings entfernt
+           - lang-dateien jetzt auch mit utf8
+
+11.01.2008 Version 1.1 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - jetzt ist PHP-Code im Insert möglich , inkl. Syntaxcheck
+
+29.12.2007 Version 1.0 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Erste Version für REDAXO ab 3.1

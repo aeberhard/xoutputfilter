@@ -1,0 +1,27 @@
+
+xoutputfilter_acronym_menu_entry = Akronyme
+
+xoutputfilter_acronym_listtitle = Akronyme
+xoutputfilter_acronym_listsummary = In dieser Tabelle sind alle definierten Akronyme enthalten
+xoutputfilter_acronym_addentry = Akronym erstellen
+xoutputfilter_acronym_marker = Akronym
+xoutputfilter_acronym_html = Hinweistext
+xoutputfilter_acronym_active = Aktiviert
+xoutputfilter_acronym_func = Funktionen
+xoutputfilter_acronym_actentry = aktivieren
+xoutputfilter_acronym_deactentry = deaktivieren
+xoutputfilter_acronym_delentry = löschen
+xoutputfilter_acronym_nodata = <strong>Keine Akronyme für diese Auswahl vorhanden!</strong>
+xoutputfilter_acronym_back = Zurück zur Übersicht
+xoutputfilter_acronym_fieldset = Akronym bearbeiten
+xoutputfilter_acronym_deleted = Akronym wurde gelöscht
+xoutputfilter_acronym_activated = Akronym wurde aktiviert
+xoutputfilter_acronym_deactivated = Akronym wurde deaktiviert
+xoutputfilter_acronym_noacronym = Bitte geben Sie ein Akronym ein!
+xoutputfilter_acronym_nohtml = Bitte geben Sie einen Hinweistext ein!
+xoutputfilter_acronym_excludeids = Bei folgenden Seiten-Id's nicht ausführen (kommaseparierte Liste)
+
+xoutputfilter_acronym_filter = Filter:
+xoutputfilter_acronym_filter1 = Marker
+xoutputfilter_acronym_filter2 = Ersetzung
+xoutputfilter_acronym_button_filter = Filtern

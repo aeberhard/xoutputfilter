@@ -1,0 +1,51 @@
+﻿
+xoutputfilter_import_export_menu_entry = Import/Export
+
+xoutputfilter_export_title = Export
+xoutputfilter_export_abbrev = - Abkürzungen
+xoutputfilter_export_acronym = - Akronyme
+xoutputfilter_export_backend = - Backend-Ersetzungen
+xoutputfilter_export_frontend = - Frontend-Ersetzungen
+xoutputfilter_export_languages = - Sprachersetzungen
+xoutputfilter_export_title_dl = Speicherort auswählen
+xoutputfilter_export_dlserver = Auf dem Server speichern
+xoutputfilter_export_dlfile = Als Datei herunterladen
+xoutputfilter_export_title_typ = Export-Typ auswählen
+xoutputfilter_export_dlcsv = Export CSV-Format
+xoutputfilter_export_dlsql = Export SQL-Format
+xoutputfilter_export_filename = Dateiname
+xoutputfilter_export_csv = CSV-Daten wurden in {0} exportiert!
+xoutputfilter_export_sql = SQL-Daten wurden in {0} exportiert!
+
+xoutputfilter_btnimport = Import
+xoutputfilter_btnexport = Export
+
+xoutputfilter_import_title = Import
+xoutputfilter_import_select = Import-Datei auswählen
+
+xoutputfilter_import_db_summary = Tabelle der verfügbaren Datenbankexporte
+xoutputfilter_import_db_caption = XOutputFilter Exporte
+xoutputfilter_import_filename = Dateiname
+xoutputfilter_import_filesize = Dateigröße
+xoutputfilter_import_createdate = Erstellt am
+xoutputfilter_import_function = Funktion
+xoutputfilter_import_import = Importieren
+xoutputfilter_import_delete = Löschen
+xoutputfilter_import_importfile = Datei importieren
+xoutputfilter_import_deletefile = Datei löschen
+xoutputfilter_import_proceed_csv = Importierte Daten werden zusätlich eingefügt! Fortfahren?
+xoutputfilter_import_proceed_sql = Bestehende Daten gehen beim Import von SQL-Dateien verloren! Fortfahren?
+xoutputfilter_import_proceed_delete = Datei löschen?
+xoutputfilter_import_deleted = Datei {0} wurde gelöscht!
+xoutputfilter_import_notdeleted = Datei {0} konnte nicht gelöscht werden!
+xoutputfilter_import_csv = CSV-Daten aus Datei {0} wurden importiert!
+xoutputfilter_import_sql = SQL-Daten aus Datei {0} wurden importiert!
+xoutputfilter_import_csv_count = Anzahl importierer Datensätze: {0}, Fehler: {1}
+xoutputfilter_import_sql_count = Anzahl importierer Datensätze: {0}
+xoutputfilter_import_nofile = Keine Importdatei ausgewählt oder Version falsch!
+xoutputfilter_import_wrongfile = Ungültige Datei für Import!
+xoutputfilter_import_errorupload = Fehler beim Upload der Datei!
+xoutputfilter_import_errorfile = Fehler beim verarbeiten der Datei {0}
+xoutputfilter_import_notwriteable = Verzeichnis "{0}" ist nicht beschreibbar!
+
+xoutputfilter_import_hinweis = <p style="color:#c00;">Achtung:<br />csv-Dateien werden beim Import zu den bestehenden Daten hinzugefügt,<br />sql-Dateien werden komplett importiert und ersetzen die bestehenden Daten!</p>

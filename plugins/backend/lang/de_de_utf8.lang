@@ -1,0 +1,42 @@
+﻿
+xoutputfilter_backend_menu_entry = Backend
+
+xoutputfilter_backend_listtitle = Backend-Ersetzungen
+xoutputfilter_backend_listsummary = In dieser Tabelle sind alle definierten Backend-Ersetzungen enthalten
+xoutputfilter_backend_addentry = Backend-Ersetzung erstellen
+xoutputfilter_backend_name = Name
+xoutputfilter_backend_description = Beschreibung
+xoutputfilter_backend_listmarker = Marker
+xoutputfilter_backend_marker = Marker<br />(mehrere durch | getrennt)<br /><br />oder regulärer Ausdruck für Suchmuster
+xoutputfilter_backend_html = Ersetzung<br /><br />Code der eingefügt werden soll<br />oder regulärer Ausdruck für Ersatz<br />oder PHP-Code
+xoutputfilter_backend_insertbefore = Ersetzungstyp
+xoutputfilter_backend_categories = aktiv bei folgenden Backend-Modulen<br />z.B. page=<strong>structure</strong><br />(mehrere durch Komma getrennt)
+xoutputfilter_backend_allcats = oder aktiv bei allen Backend-Modulen
+xoutputfilter_backend_once = nur einmal einfügen<br />(beim ersten Vorkommen eines Markers, preg_replace)
+xoutputfilter_backend_excludeids = Bei folgenden Backend-Modulen nicht aktiv<br />(mehrere durch Komma getrennt)
+xoutputfilter_backend_active = Aktiviert
+xoutputfilter_backend_func = Funktionen
+xoutputfilter_backend_actentry = aktivieren
+xoutputfilter_backend_deactentry = deaktivieren
+xoutputfilter_backend_delentry = löschen
+xoutputfilter_backend_nodata = <strong>Keine Backend-Ersetzungen für diese Auswahl vorhanden!</strong>
+xoutputfilter_backend_back = Zurück zur Übersicht
+xoutputfilter_backend_fieldset = Backend-Ersetzung bearbeiten
+xoutputfilter_backend_deleted = Backend-Ersetzungen wurde gelöscht
+xoutputfilter_backend_activated = Backend-Ersetzung wurde aktiviert
+xoutputfilter_backend_deactivated = Backend-Ersetzung wurde deaktiviert
+xoutputfilter_backend_noname = Bitte geben Sie einen Namen ein!
+xoutputfilter_backend_nodesc = Bitte geben Sie eine Beschreibung ein!
+xoutputfilter_backend_nomarker = Bitte geben Sie einen Marker ein!
+xoutputfilter_backend_nohtml = Bitte geben Sie eine Ersetzung ein!
+
+xoutputfilter_backend_insertbefore0 = nach dem Marker einfügen
+xoutputfilter_backend_insertbefore1 = vor dem Marker einfügen
+xoutputfilter_backend_insertbefore2 = Marker mit Wert ersetzen
+xoutputfilter_backend_insertbefore3 = PREG_REPLACE, Regulärer Ausdruck
+xoutputfilter_backend_insertbefore4 = PHP-Code ausführen
+
+xoutputfilter_backend_filter = Filter:
+xoutputfilter_backend_filter1 = Name
+xoutputfilter_backend_filter2 = Beschreibung
+xoutputfilter_backend_button_filter = Filtern

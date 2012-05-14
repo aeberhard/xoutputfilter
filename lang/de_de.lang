@@ -1,0 +1,21 @@
+# Addon: XOutputFilter
+#
+
+# Addon-Eintrag und Addon-Titel
+xoutputfilter_menu_link = XOutputFilter
+xoutputfilter_title = XOutputFilter <span style="font-size:10px;">(Version 2.0)</span>
+xoutputfilter_menu_help = Hilfe
+
+# Menüeinträge
+xoutputfilter_menu_settings = Konfiguration
+
+xoutputfilter_error_norights = <strong>Keine Plugin-Berechtigungen im Benutzerstammsatz vorhanden!</strong>
+xoutputfilter_error_notwriteable = Konfigurationsdatei "{0}" ist nicht beschreibbar!
+xoutputfilter_config_saved = Konfiguration wurde aktualisiert!
+xoutputfilter_config_not_saved = Konfiguration konnte nicht gespeichert werden!
+
+xoutputfilter_config_title = XOutputFilter Konfiguration
+xoutputfilter_config_active = XOutputFilter aktiv
+xoutputfilter_config_excludecats = Bei folgenden Kategorien nicht ausführen (kommaseparierte Liste)
+xoutputfilter_config_excludeids = Bei folgenden Seiten-Id's nicht ausführen (kommaseparierte Liste)
+xoutputfilter_config_runtimeinfo = Laufzeitinformationen ausgeben
