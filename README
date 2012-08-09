@@ -1,0 +1,10 @@
+XOutputFilter-Addon fuer REDAXO 
+
+Mit dem Addon XOutputFilter hat man die M&ouml;glichkeit &uuml;ber den Extension-Point OUTPUT_FILTER die Ausgabe der REDAXO-Seite zu beeinflussen (Frontend und Backend).
+
+Download
+--------
+
+@ REDAXO: http://www.redaxo.org/de/download/addons/?addon_id=420
+
+@ github: https://github.com/aeberhard/xoutputfilter
